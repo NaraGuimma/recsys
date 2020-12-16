@@ -10,7 +10,8 @@ Currently it has:
 
 Install the latest version by running
 
-`pip install git+git@github.com:shenghuiliuu/recsys.git`
+`git clone git@github.com:shenghuiliuu/recsys.git`
+`cd recsys/ && python setup.py install`
 
 
 
